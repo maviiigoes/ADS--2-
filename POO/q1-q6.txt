@@ -1,0 +1,32 @@
+1- O objeto é materialização da classe. A classe é a planta e o objeto é a classe.
+
+2- Atributos - elementos que definem a estrututa de classe 
+    Metodos sao sub-rotinas executadas pelo objeto
+
+3 
+Peso -- Sistema de saude 
+Tipo de CNH -- Autoescola
+Tipo sanguíneo -- Sistema de banco de doação de sangue
+Habilidade destra -- Escola de futebol 
+Percentual de gordura -- avaliaçao nutricional
+Saldo em conta -- Sistema Bancario
+Etinia -- Pesquisa IBGE
+
+4
+a) Sim
+b)Não, pois dessa forma a cad nova conta criada pela pessoa um novo atributo seria criado
+
+5
+Aluno, Turma , Curso , Professor, Escola 
+
+6
+    JOGO: The Sims 
+
+    Objeto:Sims
+    Atributos: idade , sexo, corDaPele, corDosOlhos, altura
+    Métodos: trabalhar, caminhar, dormir, falar
+
+    Objeto: gato
+    Atributos:idade,corDaPelagem,corDosOlhos
+    Métodos: miar, dormir, comer
+
